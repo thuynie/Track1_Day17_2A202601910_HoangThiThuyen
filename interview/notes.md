@@ -3,7 +3,7 @@
 ## 1. Thông tin buổi phỏng vấn (Metadata)
 
 - **Interviewer (Người phỏng vấn):** `Hoàng Thị Thuyên` (MHV: `2A202601910`)
-- **Interviewee (Người được phỏng vấn):** `Dương Tiến Dũng` (MHV: `2A202602020`)
+- **Interviewee (Người được phỏng vấn):** `Đoàn Ngọc Linh` (MHV: `2A202601762`)
 - **Thời lượng:** ~15 phút
 - **Hình thức phỏng vấn:** Trực tuyến (Google Meet / Trao đổi nhóm)
 - **Xác nhận ghi âm:** Đã xin phép và interviewee đồng ý ghi âm phục vụ mục đích học tập.

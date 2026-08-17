@@ -5,7 +5,7 @@
 
 ## 1. Thông tin cá nhân và nhóm
 
-- **Tên nhóm:** `Đại đại`
+- **Tên nhóm:** `2Member`
 - **Số thành viên:** 2
 - **Case đã chọn:** Case B — Personal Learning Notes
 - **Chủ repo cá nhân:** `Hoàng Thị Thuyên`
@@ -259,12 +259,12 @@ interview/recording-link.md
 
 ### Checklist
 
-- [x] Repo đúng tên `Track1_Day17_MHV_HoVaTen`.
-- [x] Đã điền MHV, họ tên, tên nhóm và các thành viên.
-- [x] `README.md` có đủ năm phần bắt buộc.
-- [x] `interview/notes.md` là notes của chính chủ repo khi làm interviewer.
-- [x] Có recording hoặc recording link mở được với giảng viên/TA (`interview/Recording.m4a`).
-- [x] Người được phỏng vấn đã đồng ý cho ghi lại.
-- [x] Conversation Guide không làm lộ solution.
-- [x] Guide đã được sửa dựa trên trải nghiệm luyện thật.
-- [x] Practice Reflection do chính chủ repo hoàn thành.
+- [ ] Repo đúng tên `Track1_Day17_MHV_HoVaTen`.
+- [ ] Đã điền MHV, họ tên, tên nhóm và các thành viên.
+- [ ] `README.md` có đủ năm phần bắt buộc.
+- [ ] `interview/notes.md` là notes của chính chủ repo khi làm interviewer.
+- [ ] Có recording hoặc recording link mở được với giảng viên/TA.
+- [ ] Người được phỏng vấn đã đồng ý cho ghi lại.
+- [ ] Conversation Guide không làm lộ solution.
+- [ ] Guide đã được sửa dựa trên trải nghiệm luyện thật.
+- [ ] Practice Reflection do chính chủ repo hoàn thành.
